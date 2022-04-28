@@ -18,7 +18,7 @@ if (isset($_POST["submit"]))
 
     print_r($_SESSION); 
 
-    header("location: page1.php");
+    // header("location: page1.php");
 }
 ?>
 
